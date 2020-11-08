@@ -1,0 +1,1 @@
+CREATE TABLE "events" ( `_id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, `message` TEXT NOT NULL, `reminder` TEXT NOT NULL, `end` TEXT );
